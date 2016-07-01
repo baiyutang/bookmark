@@ -103,7 +103,6 @@
 <li><a HREF="https://nqdeng.github.io/7-days-nodejs/#1.1"  >七天学会NodeJS</a></li>
 <li><a HREF="http://www.kancloud.cn/nvshengweiwei/nvshenweiwwe/64751" >必读书籍 - [ 程序员必读书单 1.0 ]</a></li>
 <li><a HREF="http://blog.jobbole.com/26519/" >刘昕明：送给和我一样曾经浮躁过的PHP程序员 - 博客 - 伯乐在线</a></li>
-<li><a HREF="http://stackoverflow.com/" >Stack Overflow</a></li>
 <li><a HREF="http://www.admin10000.com/" >WEB开发者 - Admin10000.com</a></li>
 <li><a HREF="http://www.php100.com/manual/unze.html" >正则表达式系统教程.CHM</a></li>
 <li><a HREF="https://ghost.org/" >Ghost - Just a blogging platform</a></li>
@@ -224,6 +223,7 @@
 <li><a HREF="http://www.cnblogs.com/snandy/p/4934944.html" >前端开发调试线上代码的两款工具 - snandy - 博客园</a></li>
 <li><a HREF="http://dl.pconline.com.cn/html_2/1/107/id=50934&pn=0.html"  >IETester|IETester 0.5.4 官方正式版下载_太平洋下载中心</a></li>
 <li><a HREF="http://jekyllthemes.io/" >Jekyll Themes &amp; Templates</a></li>
+<li><a HREF="https://www.baidufe.com/fehelper" >WEB前端助手</a></li>
 <H3>jekyll</H3>
 
 <li><a HREF="http://zachholman.com/2011/03/your-talk-looks-like-crap/" >Your Talk Looks Like Crap</a></li>
