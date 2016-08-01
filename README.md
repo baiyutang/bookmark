@@ -224,8 +224,6 @@
 <li><a HREF="http://dl.pconline.com.cn/html_2/1/107/id=50934&pn=0.html"  >IETester|IETester 0.5.4 官方正式版下载_太平洋下载中心</a></li>
 <li><a HREF="http://jekyllthemes.io/" >Jekyll Themes &amp; Templates</a></li>
 <li><a HREF="https://www.baidufe.com/fehelper" >WEB前端助手</a></li>
-<H3>jekyll</H3>
-
 <li><a HREF="http://zachholman.com/2011/03/your-talk-looks-like-crap/" >Your Talk Looks Like Crap</a></li>
 <li><a HREF="https://github.com/jekyll/jekyll/wiki/Themes" >Themes · jekyll/jekyll Wiki</a></li>
 <li><a HREF="http://renyuanz.github.io/" >Renyuan&#39;s blog | A Jekyll theme</a></li>
