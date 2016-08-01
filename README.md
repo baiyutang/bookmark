@@ -751,7 +751,6 @@
 <li><a HREF="http://www.cnblogs.com/yangsen/archive/2012/01/30/2331619.html" >php编码转换及问题 - 教育关系国家 - 博客园</a></li>
 <li><a HREF="http://www.thinkphp.cn/info/155.html" >ThinkPHP3.1快速入门教程（更新中） - ThinkPHP框架</a></li>
 <li><a HREF="http://www.cnblogs.com/tianxin2001x/archive/2009/10/28/1591311.html" >php 使用curl模拟登录discuz以及模拟发帖 - tianxin - 博客园</a></li>
-<li><a HREF="http://baike.baidu.com/view/3716650.htm" >广东省中为工商技工学校_百度百科</a></li>
 <li><a HREF="http://phpword.codeplex.com/" >PHPWord - 首页</a></li>
 <li><a HREF="http://www.jz123.cn/text/2319267.html"  >php excel类 ，phpExcel使用方法介绍</a></li>
 <li><a HREF="http://www.cnblogs.com/kucongzhi/archive/2010/07/01/1769423.html" >php操作excel文件--使用phpexcel - 库从志 - 博客园</a></li>
@@ -886,7 +885,7 @@
 <li><a HREF="http://www.freehao123.com/tag/redis/" >Redis | 免费资源部落</a></li>
 <li><a HREF="http://digitalocean.vpser.net/"  >DigitalOcean VPS 测试站 演示站,DigitalOcean 优惠码,DigitalOcean VPS 下载测试地址 测速,DigitalOcean测评</a></li>
 <li><a HREF="http://www.path8.net/tn/archives/5370"  >Vps新手入门全攻略：基础知识，选购，配置环境，日常管理及精品vps主机商推荐 | 点滴之间 聚沙成金</a></li>
-<li><a HREF="http://www.laozuo.org/5644.html" >新注册Vultr账户使用Vultr优惠码奖励20美元余额及使用技巧 | 老左博客</a></li>
+<li><a HREF="http://www.vultr.com/?ref=6921238-3B" >新注册Vultr账户使用Vultr优惠码奖励20美元余额</a></li>
 <li><a HREF="http://tengine.taobao.org/"  >The Tengine Web Server</a></li>
 <li><a HREF="http://www.jianshu.com/p/29c934534b84" >【常用markdown语法总结】 - 简书</a></li>
 <li><a HREF="http://www.vipcn.com/zt/17app/" >17app官网_17你的生活点滴app安卓版下载_17直播软件下载_17你的生活点滴app教程 - 清风手机软件站</a></li>
